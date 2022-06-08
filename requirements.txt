@@ -1,0 +1,8 @@
+requests
+scikit-learn
+matplotlib
+tensorflow
+keras
+numpy
+pandas
+seaborn
