@@ -1,1 +1,1 @@
-# price-prediction-app
+# Cryptocurrency-price-prediction-app
